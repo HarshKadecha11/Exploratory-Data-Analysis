@@ -185,7 +185,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Harsh Kadecha**
 - GitHub: [@HarshKadecha11](https://github.com/HarshKadecha11)
-- Email: harsh.kadecha@example.com
+- Email: kadechaharsh@gmail.com
 - LinkedIn: [Harsh Kadecha](https://www.linkedin.com/in/harsh-kadecha-20b288330/)
 
 ---
